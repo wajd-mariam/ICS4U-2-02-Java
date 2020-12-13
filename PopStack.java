@@ -1,11 +1,10 @@
 /*
 * Copyright (c) 2020
 *
-* The Stack file adds integer added by the 
-* user to the stack array and it pops it off the stack.
+*T he PopStack file pops off the top intgeter that was added to the stack.
 * 
 * @author  Wajd Mariam
-* @version 1.0
+* @version 2.0
 * @since   2020/12/09
 */
 

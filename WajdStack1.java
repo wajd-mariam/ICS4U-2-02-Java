@@ -2,20 +2,20 @@
 * Copyright (c) 2020
 *
 * The WajdStack1 Class creates a stack to use 
-* by the stack.java program, and has different methods to process.
+* by the PopStacj.java program, and has different methods to process.
 * 
 * @author  Wajd Mariam
-* @version 1.0
+* @version 2.0
 * @since   2020/12/09
 */
 
-import java.util.ArrayList; // import the ArrayList class
+// import the ArrayList class
+import java.util.ArrayList; 
 
 public class WajdStack1 {
   
   // Creating and Array List:
   private ArrayList<Integer> stackArray = new ArrayList<Integer>();
-
 
   /**
    * This method add the integer inputted and 
@@ -36,8 +36,7 @@ public class WajdStack1 {
   }
   
   /**
-   * This method returns the array list before and after popping 
-   * the top integer depending on the user's request.
+   * Returning method.
    */ 
   public String list() {
     String currentCharacters = "";
