@@ -1,7 +1,7 @@
 /*
 * Copyright (c) 2020
 *
-*T he PopStack file pops off the top intgeter that was added to the stack.
+* The PopStack file pops off the top integer that was added to the stack.
 * 
 * @author  Wajd Mariam
 * @version 2.0
